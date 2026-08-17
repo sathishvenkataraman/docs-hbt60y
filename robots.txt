@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-m86d2v.gitart.me/sitemap.xml
